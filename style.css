@@ -7,7 +7,7 @@
 body{
     height: 100vh;
     /* background: linear-gradient(to bottom, red,green); */
-    background: url(music.jpg) bottom no-repeat;
+    background: url(music.jpg);
     background-size:cover;
 }
 
