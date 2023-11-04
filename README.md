@@ -6,7 +6,7 @@ HTML5
 
 CSS
 
-JSS
+JS
 
 <h2> Ekran Görünümü</h2>
 
