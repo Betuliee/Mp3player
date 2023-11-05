@@ -9,10 +9,7 @@ const audio = document.getElementById('audio');
 const songImage = document.getElementById('song-image');
 const songName = document.getElementById('song-name');
 const songArtist = document.getElementById('song-artist');
-
 const playListButton = document.getElementById('playlist');
-
-
 const maxDuration = document.getElementById('max-duration');
 const currentTimeRef = document.getElementById('current-time');
 
@@ -23,7 +20,6 @@ const playListSongs = document.getElementById('playlist-songs');;
 
 const currentProgress = document.getElementById('current-progress');
 
-//sira
 let index;
 
 let loop = true;
